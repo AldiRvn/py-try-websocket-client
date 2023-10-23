@@ -1,4 +1,4 @@
-from websocket import create_connection
+from websocket import create_connection  # pip install websocket-client
 
 
 if __name__ == '__main__':
